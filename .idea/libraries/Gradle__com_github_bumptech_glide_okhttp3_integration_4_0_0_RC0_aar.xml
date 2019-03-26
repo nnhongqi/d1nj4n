@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:okhttp3-integration:4.0.0-RC0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2c26d8744a95855d8624bcb75bb17907069c7bfc/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2c26d8744a95855d8624bcb75bb17907069c7bfc/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

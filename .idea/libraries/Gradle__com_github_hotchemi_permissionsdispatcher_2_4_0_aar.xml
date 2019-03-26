@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hotchemi:permissionsdispatcher:2.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/63c05786ce19630e698d22a5d7798e6ad064fe79/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/63c05786ce19630e698d22a5d7798e6ad064fe79/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
